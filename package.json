@@ -1,0 +1,29 @@
+{
+  "name": "ddns",
+  "version": "1.0.0",
+  "description": "aliyun ddns",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "async": "^2.0.1",
+    "moment": "^2.14.1",
+    "node-schedule": "^1.1.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/z1000zhihe/DDNS.git"
+  },
+  "keywords": [
+    "DDNS",
+    "ddns",
+    "aliyun"
+  ],
+  "author": "wesley zhang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/z1000zhihe/DDNS/issues"
+  },
+  "homepage": "https://github.com/z1000zhihe/DDNS#readme"
+}
